@@ -1,5 +1,13 @@
 import java.util.ArrayList;
 
+// Feedback:
+//  This looks great! Very logical and easy to read code, I like the way youv'e separated functionality into functions. It would make it much easier to add to as a new dev
+//  on the project. It is missing the user input functionality but I would say that with the implementation you've picked that would be quite easy to add and won't
+//  effect how I grade it.
+// 
+//  Great Job!
+// 
+// 
 
 
 public class Cube {
